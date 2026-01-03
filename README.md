@@ -7,4 +7,4 @@ w a s d move  a/b look around
 #stuff
 
 you can open this project from: 
-[Link Text](URL "Optional Title")
+[duckcraft 1.0.0](https://omidomidvari.github.io/duckcraft-v1.0.0-underdev/ "duckcraft")
