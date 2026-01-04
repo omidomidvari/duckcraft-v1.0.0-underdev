@@ -1,0 +1,24 @@
+# packageprg
+programming languages:
+- html
+- javascript 
+
+# updateinfo
+laterprogramminglanguages:
+- python
+- wasm
+- ruby
+- c#
+- csv
+
+# package
+name: duckcraft
+version: 1.0.1
+codename: underdev
+platform: web-html-js
+
+# modconfig
+modconstant: true
+modcompile: true
+
+# --------------
